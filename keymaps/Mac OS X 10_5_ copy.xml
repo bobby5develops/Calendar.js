@@ -1,5 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Tool_External Tools_Prettier">
-    <keyboard-shortcut first-keystroke="shift p" second-keystroke="shift p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="action.tracker.NextTask" />
 </keymap>
