@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="flight-convo" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
+      <mapping pattern="PrivateRoute.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
