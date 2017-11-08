@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/bobby5develops/robert-yarborough.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bobby5develops/react-practice-letter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/robert-yarborough.io" />
+    <option name="cloneParentDir" value="$USER_HOME$/Labs/pure-react/letter-component" />
   </component>
 </application>
