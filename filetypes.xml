@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="table_of_contents.md" type="Markdown" />
+      <mapping pattern="table_of_contents" type="Markdown" />
       <mapping pattern="flight-convo" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="PrivateRoute.js" type="PLAIN_TEXT" />
