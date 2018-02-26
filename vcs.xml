@@ -30,4 +30,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Labs/pure-react/letter-component" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
 </application>
