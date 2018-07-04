@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="table_of_contents.md" type="Markdown" />
-      <mapping pattern="class_static" type="Markdown" />
-      <mapping pattern="class_constructor" type="Markdown" />
+      <mapping pattern="class_extends" type="Markdown" />
       <mapping pattern="class_super" type="Markdown" />
+      <mapping pattern="arrow_functions" type="Markdown" />
       <mapping pattern="classes" type="Markdown" />
       <mapping pattern="table_of_contents" type="Markdown" />
-      <mapping pattern="class_extends" type="Markdown" />
-      <mapping pattern="flight-convo" type="PLAIN_TEXT" />
+      <mapping pattern="table_of_contents.md" type="Markdown" />
+      <mapping pattern="class_constructor" type="Markdown" />
+      <mapping pattern="class_static" type="Markdown" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="PrivateRoute.js" type="PLAIN_TEXT" />
+      <mapping pattern="flight-convo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
