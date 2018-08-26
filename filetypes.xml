@@ -10,6 +10,7 @@
       <mapping pattern="class_constructor" type="Markdown" />
       <mapping pattern="class_static" type="Markdown" />
       <mapping pattern="www" type="PLAIN_TEXT" />
+      <mapping pattern="todosView.js" type="PLAIN_TEXT" />
       <mapping pattern="PrivateRoute.js" type="PLAIN_TEXT" />
       <mapping pattern="flight-convo" type="PLAIN_TEXT" />
     </extensionMap>
